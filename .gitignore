@@ -6,4 +6,5 @@ resources
 static
 themes
 config.toml
+public
 .gitignore
