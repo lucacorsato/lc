@@ -6,10 +6,19 @@
     <description>Recent content in Pages on Luca Corsato</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-IT</language>
-    <lastBuildDate>Tue, 18 Feb 2020 15:26:29 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2020 09:44:01 +0100</lastBuildDate>
     
 	<atom:link href="https://lucacorsato.com/page/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Data Management</title>
+      <link>https://lucacorsato.com/page/data-management/</link>
+      <pubDate>Wed, 19 Feb 2020 09:44:01 +0100</pubDate>
+      
+      <guid>https://lucacorsato.com/page/data-management/</guid>
+      <description>&amp;ldquo;Faccio il Data manager&amp;rdquo; &amp;ldquo;&amp;hellip; Cioè?!&amp;rdquo;  Mi faccio dire dove sono i dati, li valuto nella loro quantità, qualità e interoperabilità (ovvero: se li posso usare assieme tra loro con applicazioni diverse). Molto spesso i dati sono sparsi su documenti, sia cartacei che digitali, quindi organizzo delle campagne di digitalizzazione coinvolgendo coloro che userebbero quei dati. Quando questo è fatto, creo dei modelli di business per pagare le spese delle attività e far guadagnare ulteriore valore al proprietario dei dati.</description>
+    </item>
     
     <item>
       <title>About</title>
@@ -17,7 +26,11 @@
       <pubDate>Tue, 18 Feb 2020 15:26:29 +0100</pubDate>
       
       <guid>https://lucacorsato.com/page/about/</guid>
-      <description>Sono Luca Corsato</description>
+      <description>Sono Luca Corsato e di lavoro faccio il Data manager.
+Mi occupo da quasi 10 anni di dati e comunità tecnologiche, dai gruppi opendata ad Hacks//Hackers e Wikipediani. Dal 2015 al 2019 ho fatto modelli di business sui dati per MiBACT, CNR e aziende private, ora faccio ricerca su dati immobiliari e urbani.
+Mi potete scrivere a luca chiocciola lucacorsato punto com
+Mi trovate su Twitter, Linkedin e Facebook.
+//</description>
     </item>
     
   </channel>
