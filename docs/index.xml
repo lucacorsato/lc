@@ -6,10 +6,22 @@
     <description>Recent content on Luca Corsato</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-IT</language>
-    <lastBuildDate>Wed, 19 Feb 2020 09:44:01 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2020 18:48:45 +0200</lastBuildDate>
     
 	<atom:link href="https://lucacorsato.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cose</title>
+      <link>https://lucacorsato.com/page/cose/</link>
+      <pubDate>Tue, 07 Apr 2020 18:48:45 +0200</pubDate>
+      
+      <guid>https://lucacorsato.com/page/cose/</guid>
+      <description>Scrivo e parlo su Dataporn
+Sfogo la mia insana passione per i dati culturali con Archeostickers
+I miei vecchi articoli su data management e affini si trovano su Medium
+Documenti Heritage in lockdown - Gli asset digitali dei dati dei beni culturali nell&amp;rsquo;epoca di COVID-19</description>
+    </item>
     
     <item>
       <title>Data Management</title>
